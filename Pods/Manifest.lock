@@ -21,11 +21,9 @@ PODS:
     - PINRemoteImage/iOS (= 3.0.0-beta.13)
     - PINRemoteImage/PINCache
     - Texture/Core
-  - Yoga (1.8.1)
 
 DEPENDENCIES:
   - Texture
-  - Yoga
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -33,15 +31,13 @@ SPEC REPOS:
     - PINOperation
     - PINRemoteImage
     - Texture
-    - Yoga
 
 SPEC CHECKSUMS:
   PINCache: d195fdba255283f7e9900a55e3cced377f431f9b
   PINOperation: a6219e6fc9db9c269eb7a7b871ac193bcf400aac
   PINRemoteImage: d6d51c5d2adda55f1ce30c96e850b6c4ebd2856a
   Texture: 9d7e38965cf22ccd7cd9c249dd78b3f14e70ab6c
-  Yoga: e6f1fed82138c17da5332e15e5770abf0e9cc386
 
-PODFILE CHECKSUM: ef00677d3786f4138171c532f3ff2c476db00e6d
+PODFILE CHECKSUM: 72213b0638a152019d6960dcdebdba1265958ad4
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.5.3
